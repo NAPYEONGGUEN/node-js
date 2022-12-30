@@ -18,7 +18,7 @@
     "winston-daily-rotate-file": "^4.5.0"
   },
   "devDependencies": {
-    "mocha": "^8.0.1",
+    "mocha": "^8.4.0",
     "supertest": "^4.0.2",
     "swagger-ui-express": "^4.1.4"
   }
